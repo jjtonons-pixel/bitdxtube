@@ -38,7 +38,7 @@ This is an API for the video uploading site BitDXTube. Find out more about the A
 >
 >__What is BitDXTube?__
 >
->BitDXTube is a way to get your videos to the people who matter to you. With VidLii you can:
+>BitDXTube is a way to get your videos to the people who matter to you. With BitDXTube you can:
 >- Show off your favorite videos to the world.
 >- Blog the videos you take with your digital camera or cell phone.
 >- Security and privately show videos to your friends and family around the world.
@@ -62,7 +62,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CODE_OF_CONDUCT](CODE_OF_CONDUCT
 
 ## Security
 
-If you discover any security related issues, please email owzie123@gmail.com instead of using the issue tracker.
+If you discover any security related issues, please email jjtononsnahtanoj@gmail.com instead of using the issue tracker.
 
 ## Credits
 
